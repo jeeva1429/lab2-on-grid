@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3,300px);
+  grid-gap: 40px;
+  justify-content: center;
+}
+
+img {
+  height: 200px;
+}
